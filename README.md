@@ -1,4 +1,5 @@
 # Drawing-using-python-arcade-module
+##Open file main.py inside folder to view final project.
 This repository containers simple projects using arcade module in python.
 
 Arcade module-- This is a simple module which can be used to make 2D games using python.
